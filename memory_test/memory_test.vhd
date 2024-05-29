@@ -44,10 +44,8 @@ end component;
 
 	signal dataout1: std_logic_vector(7 downto 4);
 	signal dataout2: std_logic_vector(3 downto 0);
-	--signal address1: std_logic_vector(7 downto 4);
-	--signal address2: std_logic_vector(3 downto 0);
 	signal s_data_out: std_logic_vector(7 downto 0); 
-	--signal s_address: std_logic_vector(7 downto 0);
+	
 	
 
 begin
@@ -57,8 +55,7 @@ begin
 								
 		dataout1 <= s_data_out(7 downto 4);
 		dataout2 <= s_data_out(3 downto 0);
-		--address1 <= address(7 downto 4);
-		--address2 <= address(3 downto 0);
+		
 		
 								
 	 A1: decoBCD port map (IA => dataout1, F => display_data1);
