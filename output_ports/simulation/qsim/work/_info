@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Logicos\Documents\output_ports\simulation\qsim
+voutput_ports
+Z1 !s100 lMFTdhX[Uc6M40znGQ]LC2
+Z2 ID7n``dQT3Kf5^z8:;eNnY0
+Z3 VF78XelT;B7X[]HeXee7k32
+Z4 dC:\Users\laura\Documents\FINAL\output_ports\simulation\qsim
+Z5 w1716686705
+Z6 8output_ports.vo
+Z7 Foutput_ports.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|output_ports.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1716686706.128000
+Z12 !s107 output_ports.vo|
+!s101 -O0
+voutput_ports_vlg_check_tst
+!i10b 1
+Z13 !s100 :SYm7VaKzTG_Y;Hm?:;dN0
+Z14 I[TRKR;:ZefSZZO<@]@ZKL1
+Z15 VMId7MM5lPVaA[;V1zbJFS3
+R4
+Z16 w1716686704
+Z17 8Waveform1.vwf.vt
+Z18 FWaveform1.vwf.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z19 !s108 1716686706.178000
+Z20 !s107 Waveform1.vwf.vt|
+Z21 !s90 -work|work|Waveform1.vwf.vt|
+!s101 -O0
+R10
+voutput_ports_vlg_sample_tst
+!i10b 1
+Z22 !s100 C38Wnf:__C0?gienkJUAo2
+Z23 IZV8A:ci11Rj6=5Hn6@mHc2
+Z24 V65Y=KgXLL^oVgij5eik2k2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+voutput_ports_vlg_vec_tst
+!i10b 1
+Z25 !s100 ?Y>zA0hT;V<4cnHcB`hY=0
+Z26 IFYaQO6canoFBecTB=L_>30
+Z27 VIIN^b9gj5?>Obhl3ZoNoX2
+R4
+R16
+R17
+R18
+Z28 L0 437
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

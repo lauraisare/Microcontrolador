@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\laura\Documents\FINAL\memory_test\simulation\qsim
+vmemory_test
+Z1 !s100 99a@[Gh6]<8[6DKSWFC?N0
+Z2 Iz=E^O2>AA7R[]g2[KTC2n3
+Z3 V[BS]^h@3UZ3EkAEJN0X;E0
+Z4 dC:\Users\laura\Documents\FINAL\memory_test\simulation\qsim
+Z5 w1716702238
+Z6 8memory_test.vo
+Z7 Fmemory_test.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|memory_test.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1716702238.927000
+Z12 !s107 memory_test.vo|
+!s101 -O0
+vmemory_test_vlg_check_tst
+!i10b 1
+Z13 !s100 I=XCXZWdVihBO^;_90>nV1
+Z14 Io3RdS<6Ybm?5oNaJ<GAjC3
+Z15 VGFI8^P?9Ooc5RV=7jhYPK0
+R4
+Z16 w1716702237
+Z17 8Waveform2.vwf.vt
+Z18 FWaveform2.vwf.vt
+L0 69
+R8
+r1
+!s85 0
+31
+Z19 !s108 1716702239.207000
+Z20 !s107 Waveform2.vwf.vt|
+Z21 !s90 -work|work|Waveform2.vwf.vt|
+!s101 -O0
+R10
+vmemory_test_vlg_sample_tst
+!i10b 1
+Z22 !s100 IZ2<]^0Xa69Mm>zkLnLB;3
+Z23 IVa5;@YJIaUUZPPk8j>Yj61
+Z24 V4H;nWeGQ6jZOM=Y>>OZ^o2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmemory_test_vlg_vec_tst
+!i10b 1
+!s100 BQOP4@azQoZY9Wjz=hi8a1
+IjIYUo8HejgTkCJPQXfn8m2
+Z25 Vd7Ik9ifeo74d:EcdkSZh]2
+R4
+R16
+R17
+R18
+Z26 L0 977
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
